@@ -1,0 +1,3052 @@
+[
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS RACCOON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS PENGUIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "CURIOUS HAMSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SLEEPY HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL RACCOON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL PENGUIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "PLAYFUL HAMSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "FLUFFY HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SNEAKY HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "HAPPY HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "LITTLE HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "WILD HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "SILLY HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE RACCOON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE OTTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE PENGUIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE FOX",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE KITTEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE PUPPY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE BUNNY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE PANDA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE KOALA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "ANIMALS",
+    "answer": "BRAVE HAMSTER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CHEESY COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY POTATOES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY PANCAKES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY PRETZELS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY BISCUITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SPICY COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CRISPY COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET POTATOES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET PANCAKES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET PRETZELS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET BISCUITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "SWEET COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY POTATOES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY PANCAKES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY PRETZELS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY BISCUITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TASTY COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH POTATOES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH PANCAKES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH PRETZELS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH BISCUITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "FRESH COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "CREAMY COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED NOODLES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED WAFFLES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED MUFFINS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "TOASTED COOKIES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN NOODLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN WAFFLES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN MUFFINS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "GOLDEN COOKIES",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY POTATOES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY NOODLES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY WAFFLES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY PANCAKES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY TACOS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY PRETZELS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY MUFFINS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY BISCUITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FOOD",
+    "answer": "BUTTERY COOKIES",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MISTY RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "SUNNY RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "QUIET RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WINDY RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GREEN RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN MOUNTAIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "HIDDEN RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN MOUNTAIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "GOLDEN RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL FOREST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL GARDEN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL MEADOW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL VALLEY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL MOUNTAIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL SUNSET",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "PEACEFUL RAINBOW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD MOUNTAIN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD WATERFALL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "WILD RAINBOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL FOREST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL GARDEN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL MEADOW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL RIVER",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL VALLEY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL MOUNTAIN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL WATERFALL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL SUNSET",
+    "difficulty": "easy"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL WILDFLOWERS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "NATURE",
+    "answer": "MAGICAL RAINBOW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET TREASURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "SECRET ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "BONUS ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC INVENTORY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "EPIC ADVENTURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "FINAL ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN TREASURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "HIDDEN ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY LEVEL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY TREASURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY DUNGEON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY PORTAL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY POWERUP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LEGENDARY ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY TREASURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY DUNGEON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY POWERUP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "MYSTERY ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY INVENTORY",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "COZY ADVENTURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "LUCKY ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL LEVEL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL QUEST",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL TREASURE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL BOSS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL DUNGEON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL PORTAL",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL POWERUP",
+    "difficulty": "easy"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL CHECKPOINT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL INVENTORY",
+    "difficulty": "medium"
+  },
+  {
+    "category": "GAMING",
+    "answer": "PIXEL ADVENTURE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY MARATHON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY PREVIEW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY CREDITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY MATINEE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FUNNY BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY MARATHON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY PREVIEW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY CREDITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY MATINEE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "SCARY BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY MARATHON",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY PREVIEW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY CREDITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY SCREENING",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY MATINEE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "COZY BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "CLASSIC BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MYSTERY BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION POPCORN",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION PREVIEW",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION CREDITS",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION MATINEE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ACTION BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC CINEMA",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "ROMANTIC BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "FANTASY BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT CINEMA",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "MIDNIGHT BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND MOVIE",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND POPCORN",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND MARATHON",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND PREVIEW",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND CREDITS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND SOUNDTRACK",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND SCREENING",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND CINEMA",
+    "difficulty": "easy"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND MATINEE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "MOVIE NIGHT",
+    "answer": "WEEKEND BLOCKBUSTER",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT NEEDS A VACATION",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT STOLE MY SNACKS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT WANTS MORE TREATS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY CAT RULES THE HOUSE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG NEEDS A VACATION",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG STOLE MY SNACKS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE DOG RULES THE HOUSE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON STOLE MY SNACKS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "A RACCOON RULES THE HOUSE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN STOLE MY SNACKS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY BRAIN RULES THE HOUSE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER HAS BIG IDEAS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER STOLE MY SNACKS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER IS ACTING SUS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER LOST THE PLOT",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE PRINTER RULES THE HOUSE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE STOLE MY SNACKS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY COFFEE RULES THE HOUSE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY HAS BIG IDEAS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY STOLE MY SNACKS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY IS ACTING SUS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY LOST THE PLOT",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THIS MONDAY RULES THE HOUSE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS STOLE MY SNACKS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY SOCKS RULES THE HOUSE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI STOLE MY SNACKS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE WIFI RULES THE HOUSE",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS NEEDS A VACATION",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS HAS BIG IDEAS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS IS ON A QUEST",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS STOLE MY SNACKS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS WANTS MORE TREATS",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS IS ACTING SUS",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS HAS NO CHILL",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS LOST THE PLOT",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS NEEDS A NAP",
+    "difficulty": "medium"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY PLANTS RULES THE HOUSE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "TEAMWORK MAKES THE DREAM WORK",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "I CAME I SAW I FORGOT WHY",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "JUST ONE MORE GAME TONIGHT",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "MY LAST BRAIN CELL IS ON BREAK",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "TOO MANY TABS OPEN IN MY BRAIN",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE SNACK DRAWER IS CALLING",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "I HAVE A SIDE QUEST PROBLEM",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "EVERY DAY IS A NEW ADVENTURE",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "THE FLOOR IS MADE OF LAVA",
+    "difficulty": "hard"
+  },
+  {
+    "category": "FUN PHRASES",
+    "answer": "PLEASE SEND MORE COFFEE",
+    "difficulty": "hard"
+  }
+]

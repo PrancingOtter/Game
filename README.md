@@ -23,3 +23,6 @@ Do not use static-only hosting like GitHub Pages for this version; it requires a
 - The game has a fixed starter set of family-friendly puzzles.
 - Room codes are invitation secrets, not secure authentication. Avoid sensitive content.
 - This is a learning prototype, not production-hardened public multiplayer infrastructure. For a wider launch, add rate limits, moderation, persistent storage, and stronger room access controls.
+
+## V2: 610 puzzles and categories
+Choose a category and difficulty when creating a room. All three players share the chosen puzzle set. The server shuffles each eligible puzzle once before repeating, and avoids immediately repeating the last answer at deck reset. Choices apply when the room is created; joining players use the host's choices. The word list is in `puzzles.json` and can be edited. Rooms and deck progress are in server memory and reset on redeploy/restart.
